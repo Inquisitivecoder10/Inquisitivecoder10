@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **any web dev, ai&ml project**
 
-- 💬 Ask me about **Python, Java, AI&ML**
+- 💬 Ask me about **Python, Java, AI&ML, Pre-sales, Ed-tech Sales**
 
-- 📫 How to reach me **sanjaysagarm1003@gmail.com**
+- 📫 How to reach me **sanjaysagarm10@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/sanjay-sagar-m-66b42a276](www.linkedin.com/in/sanjay-sagar-m-66b42a276)
 
