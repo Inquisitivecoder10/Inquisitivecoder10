@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inquisitivecoder10&label=Profile%20views&color=0e75b6&style=flat" alt="inquisitivecoder10" /> </p>
 
-- 🔭 I’m currently working on [Helmet Detection Using AI&ML](https://medium.com/@sanjaysagarm1003)
+- 🔭 I’m currently working on [Detetction of Parkinson's Disease using ML](https://medium.com/@sanjaysagarm1003)
 
 - 🌱 I’m currently learning **Web Development**
 
